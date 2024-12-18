@@ -1,0 +1,15 @@
+{
+ "argv": [
+  "/home/bench/deepLearning/img-classify1/imgclassify1/bin/python",
+  "-Xfrozen_modules=off",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "imgclassify1",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
